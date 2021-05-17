@@ -30,7 +30,7 @@ nav{
 }
 .navbar ul li a{
     color: white;
-    font-family: 'Century Gothic', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     text-decoration: none;
     font-size: 30px;
 }
@@ -46,7 +46,7 @@ nav{
     margin-top: 5%;
     margin-bottom: 10%;
     color: white;
-    font-family: 'Century Gothic', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 .box-img{
     border-radius: 50%;
